@@ -1,7 +1,7 @@
 # Frontend-Projects
 ![image](https://user-images.githubusercontent.com/120945994/216247431-9f5b2e94-1c45-46a1-837b-7a20cdb3ecce.png)
 
-![image](https://user-images.githubusercontent.com/120945994/216253427-72833200-7567-4edd-a321-f2fab980f343.png)
+
 
 ![image](https://user-images.githubusercontent.com/120945994/216253085-3bb0cd12-ce42-4da4-a6b6-3d85caf99a27.png)
 ![image](https://user-images.githubusercontent.com/120945994/216253188-05c758b6-74ab-43e5-beff-71ec237fff9d.png)
