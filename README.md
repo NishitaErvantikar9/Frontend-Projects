@@ -5,6 +5,7 @@
 [<img src="https://github.com/NishitaErvantikar9/Frontend-Projects/blob/main/Images/netflix.gif" >]()
 Netflix clone is created using basic HTML and CSS concepts like html tables, div, ids , images, anchor tags and classes.
 
+
 ## Gaming Blog
 [<img src="https://github.com/NishitaErvantikar9/Frontend-Projects/blob/main/Images/GamingBlog.gif">]()
 This project is a practice for slightly concepts like float, video, iframes, gallery using  only plain HTML and CSS.
