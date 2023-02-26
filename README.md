@@ -3,7 +3,16 @@
 
 ## Netflix Clone
 [<img src="https://github.com/NishitaErvantikar9/Frontend-Projects/blob/main/Images/netflix.gif" >]()
+Netflix clone is created using basic HTML and CSS concepts like html tables, div, ids , images, anchor tags and classes.
 
 ## Gaming Blog
-[<img src="https://github.com/NishitaErvantikar9/Frontend-Projects/blob/main/Images/GamingBlog.gif" >]()
+[<img src="https://github.com/NishitaErvantikar9/Frontend-Projects/blob/main/Images/GamingBlog.gif">]()
+This project is a practice for slightly concepts like float, video, iframes, gallery using  only plain HTML and CSS.
 
+## Travel Cuisine
+[<img src="https://github.com/NishitaErvantikar9/Frontend-Projects/blob/main/Images/TravelCuisine.gif">]()
+This is one of my fav projects that include CSS key frames animations . No javascript at all!
+
+## Wildlife Gallery
+[<img src="https://github.com/NishitaErvantikar9/Frontend-Projects/blob/main/Images/wildlife.gif">]()
+Main Concepts used in this project is FLex box and how it makes all our lives easier!
