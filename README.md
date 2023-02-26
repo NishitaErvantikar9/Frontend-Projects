@@ -17,3 +17,14 @@ This is one of my fav projects that include CSS key frames animations . No javas
 ## Wildlife Gallery
 [<img src="https://github.com/NishitaErvantikar9/Frontend-Projects/blob/main/Images/wildlife.gif">]()
 Main Concepts used in this project is FLex box and how it makes all our lives easier!
+
+## Linkedin Clone
+[<img src="https://github.com/NishitaErvantikar9/Frontend-Projects/blob/main/Images/LinkedIN.gif">]()
+Bootstrap is the hero of the project. Aim was to learn grid system and make a website with only vanilla bootstrap. No CSS.
+
+## Background Changer
+[<img src="https://github.com/NishitaErvantikar9/Frontend-Projects/blob/main/Images/bgchanger.gif">]()
+
+## Color Game for kIds
+[<img src="https://github.com/NishitaErvantikar9/Frontend-Projects/blob/main/Images/colorgame.gif">]()
+
